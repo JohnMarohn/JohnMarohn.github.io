@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://johnmarohn.github.io/</loc>
-<lastmod>2015-07-03T15:38:38-00:00</lastmod>
+<lastmod>2015-07-03T18:12:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/archives.html</loc>
-<lastmod>2015-07-03T15:38:38-00:00</lastmod>
+<lastmod>2015-07-03T18:12:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/tags.html</loc>
-<lastmod>2015-07-03T15:38:38-00:00</lastmod>
+<lastmod>2015-07-03T18:12:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/categories.html</loc>
-<lastmod>2015-07-03T15:38:38-00:00</lastmod>
+<lastmod>2015-07-03T18:12:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -49,6 +49,27 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <loc>http://johnmarohn.github.io/pages/3-Members.html</loc>
 <lastmod>2015-07-02T00:00:00-04:00</lastmod>
 <changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://johnmarohn.github.io/MarohnGroup-20150703-174539--Welcome.html</loc>
+<lastmod>2015-07-03T17:45:00-04:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://johnmarohn.github.io/category/news</loc>
+<lastmod>2015-07-03T17:45:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://johnmarohn.github.io/author/john-a-marohn-jam99cornelledu.html</loc>
+<lastmod>2015-07-03T17:45:00-04:56</lastmod>
+<changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
