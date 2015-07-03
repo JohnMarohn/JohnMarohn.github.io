@@ -6,12 +6,15 @@
         <meta name="author" content="John A. Marohn" />
         <meta name="copyright" content="John A. Marohn" />
 
-        <title>The Marohn Group
+        <title>Search · The Marohn Group
 </title>
         <link href="http://cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
         <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css" rel="stylesheet">
         <link rel="stylesheet" type="text/css" href="/theme/css/style.css" media="screen">
         <link rel="stylesheet" type="text/css" href="/theme/css/solarizedlight.css" media="screen">
+
+<link href="http://fonts.googleapis.com/css?family=Lato:300,400|Open+Sans:300,400" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="/theme/tipuesearch/tipuesearch.css">
         <link rel="shortcut icon" href="/theme/images/favicon.ico" type="image/x-icon" />
         <link rel="apple-touch-icon" href="/theme/images/apple-touch-icon.png" />
         <link rel="apple-touch-icon" sizes="57x57" href="/theme/images/apple-touch-icon-57x57.png" />
@@ -37,7 +40,7 @@
                     <a class="brand" href="/"><span class=site-name>The Marohn Group</span></a>
                     <div class="nav-collapse collapse">
                         <ul class="nav pull-right top-menu">
-                            <li  class="active"><a href="/">Updates</a></li>
+                            <li ><a href="/">Updates</a></li>
                             <li ><a href="/pages/1-Research.html">Research</a></li>
                             <li ><a href="/pages/2-Publications.html">Publications</a></li>
                             <li ><a href="/pages/3-Members.html">Members</a></li>
@@ -54,16 +57,11 @@
             <div class="row-fluid">
                 <div class="span1"></div>
                 <div class="span10">
-<div class="row-fluid">
-    <header class="page_header span12">
-    <h1><a href="">News</a></h1>
-    </header>
-
-    <div class="row-fluid">
-
+<article>
+    <div class="span8 offset2">
+        <div id="tipue_search_content"><div id="tipue_search_loading"></div></div>
     </div>
-
-</div>
+</article>
                 </div>
                 <div class="span1"></div>
             </div>
@@ -75,13 +73,18 @@
         <li class="elegant-power">Powered by <a href="http://getpelican.com/" title="Pelican Home Page">Pelican</a>. Theme: <a href="http://oncrashreboot.com/pelican-elegant" title="Theme Elegant Home Page">Elegant</a> by <a href="http://oncrashreboot.com" title="Talha Mansoor Home Page">Talha Mansoor</a></li>
     </ul>
 </div>
-</footer>        <script src="http://code.jquery.com/jquery.min.js"></script>
-        <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js"></script>
-        <script>
-            function validateForm(query)
-            {
-                return (query.length > 0);
-            }
-        </script>
+</footer><script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+<script type="text/javascript" src="/theme/tipuesearch/tipuesearch_set.js"></script>
+<script type="text/javascript" src="/theme/tipuesearch/tipuesearch.min.js"></script>
+<script>
+$(document).ready(function() {
+     $('#tipue_search_input').tipuesearch({
+             'mode' : 'json',
+         'show': 10,
+         'newWindow': true,
+             'contentLocation': '/tipuesearch_content.json'
+     });
+});
+</script>
     </body>
 </html>
