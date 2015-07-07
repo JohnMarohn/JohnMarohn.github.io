@@ -1,6 +1,40 @@
 <!DOCTYPE html>
 <html lang="en-US">
     <head>
+
+		<!-- Using MathJax, with the delimiters $ -->
+		<!-- Conflict with pygments for the .mo and .mi -->
+		<script type="text/x-mathjax-config">
+		
+			MathJax.Hub.Config({
+			"HTML-CSS": {
+			styles: {".MathJax .mo, .MathJax .mi": {color: "black ! important"}}
+			},
+			TeX: {equationNumbers: {autoNumber: "AMS"}},
+			tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']],processEscapes: true}
+			});
+			
+			MathJax.Hub.Register.StartupHook("HTML-CSS Jax Ready",function () {
+			var VARIANT = MathJax.OutputJax["HTML-CSS"].FONTDATA.VARIANT;
+			VARIANT["normal"].fonts.unshift("MathJax_SansSerif");
+			VARIANT["bold"].fonts.unshift("MathJax_SansSerif-bold");
+			VARIANT["italic"].fonts.unshift("MathJax_SansSerif-italic");
+			VARIANT["-tex-mathit"].fonts.unshift("MathJax_SansSerif-italic");
+			});
+			
+			MathJax.Hub.Register.StartupHook("SVG Jax Ready",function () {
+			var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;
+			VARIANT["normal"].fonts.unshift("MathJax_SansSerif");
+			VARIANT["bold"].fonts.unshift("MathJax_SansSerif-bold");
+			VARIANT["italic"].fonts.unshift("MathJax_SansSerif-italic");
+			VARIANT["-tex-mathit"].fonts.unshift("MathJax_SansSerif-italic");
+			});
+		</script>
+
+		<script type="text/javascript"
+		src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+		</script>
+
         <meta charset="utf-8"> 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="author" content="John A. Marohn" />
@@ -24,7 +58,7 @@
     </head>
     <body>
 		<div class="container" align="middle">
-			<a class="brand" href="http://johnmarohn.github.io/pages/home.html"><img src="http://johnmarohn.github.io/images/MarohnHeader.jpg" alt="The Marohn Group" align="middle"></a>
+			<a class="brand" href="http://johnmarohn.github.io/"><img src="http://johnmarohn.github.io/images/MarohnHeader.jpg" alt="The Marohn Group" align="middle"></a>
 		</div>
         <div id="content-sans-footer">
         <div class="navbar navbar-static-top">
@@ -93,19 +127,19 @@
 <p>[<strong>Malliaras2008mar</strong>] Malliaras, G. G.; Slinker, J. D.; DeFranco, J. A.; Jaquith, M. J.; Silveira, W. R.; Zhong, Y.-W.; Moran-Mirabal, J. M.; Craighead, H. G.; Abruna, <span class="caps">H. D.</span> <span class="amp">&amp;</span> Marohn, <span class="caps">J. A.</span>&#8220;Operating mechanism of light-emitting electrochemical cells &#8212; Authors&#8217; response&#8221;, <em>Nat. Mater.</em>, <strong>2008</strong>, <em>7</em>, 168 [<a class="reference external" href="http://dx.doi.org/10.1038/nmat2129">10.1038/nmat2129</a>].</p>
 <p>[<strong>Yazdanian2008jun</strong>] Yazdanian, S. M.; Marohn, <span class="caps">J. A.</span> <span class="amp">&amp;</span> Loring, <span class="caps">R. F.</span>&#8220;Dielectric Fluctuations in Force Microscopy: Noncontact Friction and Frequency Jitter&#8221;, <em>J. Chem. Phys.</em>, <strong>2008</strong>, <em>128</em>, 224706 [<a class="reference external" href="http://dx.doi.org/10.1063/1.2932254">10.1063/1.2932254</a>][<a class="reference external" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2674627"><span class="caps">PMCID</span>:<span class="caps">PMC2674627</span></a>].</p>
 <p>[<strong>deRoover2007feb</strong>] de Roover, D.; Porter <span class="caps">II</span>, L. M.; Emami-Naeni, A.; Marohn, J. A.; Kuehn, S.; Garner, S. <span class="amp">&amp;</span> Smith, <span class="caps">D. D.</span>&#8220;-0.05in, An All-Digital Cantilever Controller for <span class="caps">MRFM</span> and Scanned Probe Microscopy using a Combined <span class="caps">DSP</span>/<span class="caps">FPGA</span> Design&#8221;, Proceedings of the 10th <span class="caps">NSTI</span> Nanotech Conference, Santa Clara, <span class="caps">CA</span>, <span class="caps">U.S.</span>A., <strong>2007</strong>.</p>
-<p>[<strong>Jaquith2007jul</strong>] Jaquith, M.; Muller, <span class="caps">E. M.</span> <span class="amp">&amp;</span> Marohn, <span class="caps">J. A.</span>&#8220;Time-resolved electric force microscopy of charge trapping in polycrystalline pentacene&#8221;, <em>J. Phys. Chem. B</em>, <strong>2007</strong>, * 111*, 7711 - 7714 [<a class="reference external" href="http://dx.doi.org/10.1021/jp073626l">10.1021/jp073626l</a>].</p>
+<p>[<strong>Jaquith2007jul</strong>] Jaquith, M.; Muller, <span class="caps">E. M.</span> <span class="amp">&amp;</span> Marohn, <span class="caps">J. A.</span>&#8220;Time-resolved electric force microscopy of charge trapping in polycrystalline pentacene&#8221;, <em>J. Phys. Chem. B</em>, <strong>2007</strong>, <em>111</em>, 7711 - 7714 [<a class="reference external" href="http://dx.doi.org/10.1021/jp073626l">10.1021/jp073626l</a>].</p>
 <p>[<strong>Ng2007feb</strong>] Ng, T. N.; Silveira, <span class="caps">W. R.</span> <span class="amp">&amp;</span> Marohn, <span class="caps">J. A.</span>&#8220;Dependence of charge injection on temperature, electric field, and energetic disorder in an organic semiconductor&#8221;, <em>Phys. Rev. Lett.</em>, <strong>2007</strong>, <em>98</em>, 066101 [<a class="reference external" href="http://dx.doi.org/10.1103/PhysRevLett.98.066101">10.1103/PhysRevLett.98.066101</a>].</p>
 <p>[<strong>Silveira2007</strong>] Silveira, W. R.; Muller, E. M.; Ng, T. N.; Dunlap, <span class="caps">D. H.</span> <span class="amp">&amp;</span> Marohn, <span class="caps">J. A.</span> Kalinin, <span class="caps">S. V.</span> <span class="amp">&amp;</span> Gruverman, A. (Eds.) &#8220;High-Sensitivity Electric Force Microscopy of Organic Electronic Devices and Materials&#8221;, Scanning Probe Microscopy: Electrical and Electromechanical Phenomena at the Nanoscale, <strong>2007</strong>, <em><span class="caps">II</span></em>, 788 -&nbsp;830.</p>
 <p>[<strong>Slinker2007nov</strong>] Slinker, J. D.; DeFranco, J. A.; Jaquith, M. J.; Silveira, W. R.; Zhong, Y.-W.; Moran-Mirabal, J. M.; Craighead, H. G.; Abru na, H. D.; Marohn, <span class="caps">J. A.</span> <span class="amp">&amp;</span> Malliaras, <span class="caps">G. G.</span>&#8220;Direct measurement of the electric-field distribution in a light-emitting electrochemical cell&#8221;, <em>Nat. Mater.</em>, <strong>2007</strong>, <em>6</em>, 894 - 899 [<a class="reference external" href="http://dx.doi.org/10.1038/nmat2021">10.1038/nmat2021</a>].</p>
-<p>[<strong>Kuehn2006apr</strong>] Kuehn, S.; Loring, <span class="caps">R. F.</span> <span class="amp">&amp;</span> Marohn, <span class="caps">J. A.</span>&#8220;Dielectric Fluctuations and the Origins of Noncontact Friction&#8221;, <em>Phys. Rev. Lett.</em>, <strong>2006</strong>, * 96*, 156103 [<a class="reference external" href="http://dx.doi.org/PhysRevLett.96.156103">PhysRevLett.96.156103</a>][<a class="reference external" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1941717}"><span class="caps">PMCID</span>:<span class="caps">PMC1941717</span></a>].</p>
-<p>[<strong>Kuehn2006aug</strong>] Kuehn, S.; Marohn, <span class="caps">J. A.</span> <span class="amp">&amp;</span> Loring, <span class="caps">R. F.</span>&#8220;Noncontact dielectric friction&#8221;, <em>J. Phys. Chem. B</em>, <strong>2006</strong>, * 110*, 14525 - 145258 [<a class="reference external" href="http://dx.doi.org/10.1021/jp061865n">10.1021/jp061865n</a>][<a class="reference external" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2323026"><span class="caps">PMCID</span>:<span class="caps">PMC2323026</span></a>)].</p>
+<p>[<strong>Kuehn2006apr</strong>] Kuehn, S.; Loring, <span class="caps">R. F.</span> <span class="amp">&amp;</span> Marohn, <span class="caps">J. A.</span>&#8220;Dielectric Fluctuations and the Origins of Noncontact Friction&#8221;, <em>Phys. Rev. Lett.</em>, <strong>2006</strong>, <em>96</em>, 156103 [<a class="reference external" href="http://dx.doi.org/PhysRevLett.96.156103">PhysRevLett.96.156103</a>][<a class="reference external" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1941717}"><span class="caps">PMCID</span>:<span class="caps">PMC1941717</span></a>].</p>
+<p>[<strong>Kuehn2006aug</strong>] Kuehn, S.; Marohn, <span class="caps">J. A.</span> <span class="amp">&amp;</span> Loring, <span class="caps">R. F.</span>&#8220;Noncontact dielectric friction&#8221;, <em>J. Phys. Chem. B</em>, <strong>2006</strong>, <em>110</em>, 14525 - 145258 [<a class="reference external" href="http://dx.doi.org/10.1021/jp061865n">10.1021/jp061865n</a>][<a class="reference external" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2323026"><span class="caps">PMCID</span>:<span class="caps">PMC2323026</span></a>)].</p>
 <p>[<strong>Ng2006mar</strong>] Ng, T. N.; Jenkins, <span class="caps">N. E.</span> <span class="amp">&amp;</span> Marohn, <span class="caps">J. A.</span>&#8220;Thermomagnetic Fluctuations and Hysteresis Loops of Magnetic Cantilevers for Magnetic Resonance Force Microscopy&#8221;, <em><span class="caps">IEEE</span> Trans. Mag.</em>, <strong>2006</strong>, <em>42</em>, 378 - 381 [<a class="reference external" href="http://dx.doi.org/10.1109/TMAG.2006.870259">10.1109/<span class="caps">TMAG</span>.2006.870259</a>].</p>
 <p>[<strong>Ng2006oct</strong>] Ng, T. N.; Marohn, <span class="caps">J. A.</span> <span class="amp">&amp;</span> Chabinyc, <span class="caps">M. L.</span>&#8220;Comparing the kinetics of bias stress in organic field-effect transistors with different dielectric interfaces&#8221;, <em>J. Appl. Phys.</em>, <strong>2006</strong>, <em>100</em>, 84505 [<a class="reference external" href="http://dx.doi.org/10.1063/1.2358410">10.1063/1.2358410</a>].</p>
 <p>[<strong>Ng2006aug</strong>] Ng, T. N.; Silveira, <span class="caps">W. R.</span> <span class="amp">&amp;</span> Marohn, <span class="caps">J. A.</span>&#8220;Non-Ideal Behavior in a Model System: Contact Degradation in a Molecularly Doped Polymer Revealed by Variable-Temperature Electric Force Microscopy&#8221;, <em>Proc. <span class="caps">SPIE</span></em>, <strong>2006</strong>, <em>6336</em>, 63360A [<a class="reference external" href="http://dx.doi.org/10.1117/12.681010">10.1117/12.681010</a>].</p>
 <p>[<strong>Muller2005jun</strong>] Muller, <span class="caps">E. M.</span> <span class="amp">&amp;</span> Marohn, <span class="caps">J. A.</span>&#8220;Microscopic evidence for spatially inhomogeneous charge trapping in pentacene&#8221;, <em>Adv. Mater.</em>, <strong>2005</strong>, <em>17</em>, 1410 [<a class="reference external" href="http://dx.doi.org/10.1002/adma.200401174">10.1002/adma.200401174</a>].</p>
 <p>[<strong>Garner2004jun</strong>] Garner, S. R.; Kuehn, S.; Dawlaty, J. M.; Jenkins, <span class="caps">N. E.</span> <span class="amp">&amp;</span> Marohn, <span class="caps">J. A.</span>&#8220;Force-Gradient Detected Nuclear Magnetic Resonance&#8221;, <em>Appl. Phys. Lett.</em>, <strong>2004</strong>, <em>84</em>, 5091 - 5093 [<a class="reference external" href="http://dx.doi.org/10.1063/1.1762700">10.1063/1.1762700</a>].</p>
 <p>[<strong>Jenkins2004may</strong>] Jenkins, N. E.; DeFlores, L. P.; Allen, J.; Ng, T. N.; Garner, S. R.; Kuehn, S.; Dawlaty, <span class="caps">J. M.</span> <span class="amp">&amp;</span> Marohn, <span class="caps">J. A.</span>&#8220;Batch Fabrication and Characterization of Ultrasensitive Cantilevers with Submicron Magnetic Tips&#8221;, <em>J. Vac. Sci. Technol. B</em>, <strong>2004</strong>, <em>22</em>, 909 - 915 [<a class="reference external" href="http://dx.doi.org/10.1116/1.1695336">10.1116/1.1695336</a>].</p>
-<p>[<strong>McNeil2004may</strong>] McNeil, A. J.; Toombes, <span class="caps">G. E.</span> S.; Chandramouli, S. V.; Vanasse, B. J.; Ayers, T. A.; O&#8217;Brien, M. K.; Lobkovsky, E.; Gruner, S. M.; Marohn, <span class="caps">J. A.</span> <span class="amp">&amp;</span> Collum, <span class="caps">D. B.</span>&#8220;Characterization of $-Amino Ester Enolates as Hexamers via $^6$Li <span class="caps">NMR</span> Spectroscopy&#8221;, <em>J. Am. Chem. Soc.</em>, <strong>2004</strong>, <em>126</em>, 5938 - 5939 [<a class="reference external" href="http://dx.doi.org/10.1021/ja049245s">10.1021/ja049245s</a>].</p>
+<p>[<strong>McNeil2004may</strong>] McNeil, A. J.; Toombes, <span class="caps">G. E.</span> S.; Chandramouli, S. V.; Vanasse, B. J.; Ayers, T. A.; O&#8217;Brien, M. K.; Lobkovsky, E.; Gruner, S. M.; Marohn, <span class="caps">J. A.</span> <span class="amp">&amp;</span> Collum, <span class="caps">D. B.</span>&#8220;Characterization of $\beta$-Amino Ester Enolates as Hexamers via $^6$Li <span class="caps">NMR</span> Spectroscopy&#8221;, <em>J. Am. Chem. Soc.</em>, <strong>2004</strong>, <em>126</em>, 5938 - 5939 [<a class="reference external" href="http://dx.doi.org/10.1021/ja049245s">10.1021/ja049245s</a>].</p>
 <p>[<strong>Silveira2004sep</strong>] Silveira, <span class="caps">W. R.</span> <span class="amp">&amp;</span> Marohn, <span class="caps">J. A.</span>&#8220;Microscopic view of charge injection in an organic semiconductor&#8221;, <em>Phys. Rev. Lett.</em>, <strong>2004</strong>, <em>93</em>, 116104 [<a class="reference external" href="http://dx.doi.org/10.1103/PhysRevLett.93.116104">10.1103/PhysRevLett.93.116104</a>].</p>
 <p>[<strong>Kempf2003feb</strong>] Kempf, <span class="caps">J. G.</span> <span class="amp">&amp;</span> Marohn, <span class="caps">J. A.</span>&#8220;Nanoscale Fourier-transform imaging with magnetic resonance force microscopy&#8221;, <em>Phys. Rev. Lett.</em>, <strong>2003</strong>, <em>90</em>, 087601 [<a class="reference external" href="http://dx.doi.org/10.1103/PhysRevLett.90.087601">10.1103/PhysRevLett.90.087601</a>].</p>
 <p>[<strong>Silveira2003jan</strong>] Silveira, <span class="caps">W. R.</span> <span class="amp">&amp;</span> Marohn, <span class="caps">J. A.</span>&#8220;A vertical inertial coarse approach for variable temperature scanned probe microscopy&#8221;, <em>Rev. Sci. Instrum.</em>, <strong>2003</strong>, <em>74</em>, 267 - 269 [<a class="reference external" href="http://dx.doi.org/10.1063/1.1524712">10.1063/1.1524712</a>].</p>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>The Marohn Group</title><link href="/" rel="alternate"></link><link href="/feeds/research.atom.xml" rel="self"></link><id>/</id><updated>2015-07-07T00:38:00-04:00</updated><entry><title>Test</title><link href="/MarohnGroup-20150707-003843--Test.html" rel="alternate"></link><updated>2015-07-07T00:38:00-04:00</updated><author><name>John A. Marohn (jam99@cornell.edu)</name></author><id>tag:,2015-07-07:MarohnGroup-20150707-003843--Test.html</id><summary type="html">&lt;p&gt;This is a MathJax&amp;nbsp;test.&lt;/p&gt;
+&lt;p&gt;\begin{equation}
+\Delta f = - \frac{f}{2 k} \sum_j \mu_z(\vec{r}_j) \frac{\partial^2 B_z^{\mathrm{tip}}(\vec{r}_j )}{\partial x^2}&amp;nbsp;\end{equation}&lt;/p&gt;
+</summary><category term="MathJax"></category></entry></feed>
