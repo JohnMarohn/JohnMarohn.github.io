@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://johnmarohn.github.io/</loc>
-<lastmod>2016-04-04T19:18:26-00:00</lastmod>
+<lastmod>2016-04-05T18:15:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/archives.html</loc>
-<lastmod>2016-04-04T19:18:26-00:00</lastmod>
+<lastmod>2016-04-05T18:15:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/tags.html</loc>
-<lastmod>2016-04-04T19:18:26-00:00</lastmod>
+<lastmod>2016-04-05T18:15:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/categories.html</loc>
-<lastmod>2016-04-04T19:18:26-00:00</lastmod>
+<lastmod>2016-04-05T18:15:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -40,13 +40,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://johnmarohn.github.io/pages/2-Publications.html</loc>
-<lastmod>2015-07-02T00:00:00-04:00</lastmod>
+<lastmod>2016-04-04T00:00:00-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/pages/3-Members.html</loc>
+<loc>http://johnmarohn.github.io/pages/3-Theses.html</loc>
+<lastmod>2016-04-04T00:00:00-04:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://johnmarohn.github.io/pages/4-Members.html</loc>
 <lastmod>2015-09-03T00:00:00-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
