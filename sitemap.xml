@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://johnmarohn.github.io/</loc>
-<lastmod>2016-08-15T14:04:28-00:00</lastmod>
+<lastmod>2016-12-17T17:05:16-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/archives.html</loc>
-<lastmod>2016-08-15T14:04:28-00:00</lastmod>
+<lastmod>2016-12-17T17:05:16-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/tags.html</loc>
-<lastmod>2016-08-15T14:04:28-00:00</lastmod>
+<lastmod>2016-12-17T17:05:16-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/categories.html</loc>
-<lastmod>2016-08-15T14:04:28-00:00</lastmod>
+<lastmod>2016-12-17T17:05:16-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -55,6 +55,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://johnmarohn.github.io/pages/4-Members.html</loc>
 <lastmod>2015-09-03T00:00:00-04:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://johnmarohn.github.io/pages/5-Links.html</loc>
+<lastmod>2016-12-17T00:00:00-05:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://johnmarohn.github.io/MarohnGroup-20161217-165316--Links-page-added.html</loc>
+<lastmod>2016-12-17T16:53:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -110,21 +124,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://johnmarohn.github.io/category/research</loc>
-<lastmod>2016-04-05T18:23:00-04:56</lastmod>
+<lastmod>2016-12-17T16:53:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/tag/news/</loc>
-<lastmod>2016-08-14T10:04:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://johnmarohn.github.io/tag/phd-thesis/</loc>
-<lastmod>2016-04-05T18:23:00-04:56</lastmod>
+<loc>http://johnmarohn.github.io/tag/links/</loc>
+<lastmod>2016-12-17T16:53:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -144,8 +151,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://johnmarohn.github.io/tag/phd-thesis/</loc>
+<lastmod>2016-04-05T18:23:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://johnmarohn.github.io/tag/eyh/</loc>
 <lastmod>2016-05-05T14:55:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://johnmarohn.github.io/tag/news/</loc>
+<lastmod>2016-08-14T10:04:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -159,7 +180,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://johnmarohn.github.io/author/john-a-marohn-jam99cornelledu.html</loc>
-<lastmod>2016-08-14T10:04:00-04:56</lastmod>
+<lastmod>2016-12-17T16:53:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
