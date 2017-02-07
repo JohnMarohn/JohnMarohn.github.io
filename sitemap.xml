@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://johnmarohn.github.io/</loc>
-<lastmod>2017-02-06T22:51:43-00:00</lastmod>
+<lastmod>2017-02-06T22:59:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/archives.html</loc>
-<lastmod>2017-02-06T22:51:43-00:00</lastmod>
+<lastmod>2017-02-06T22:59:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/tags.html</loc>
-<lastmod>2017-02-06T22:51:43-00:00</lastmod>
+<lastmod>2017-02-06T22:59:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/categories.html</loc>
-<lastmod>2017-02-06T22:51:43-00:00</lastmod>
+<lastmod>2017-02-06T22:59:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -67,8 +67,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/MarohnGroup-20170206-153027--perovskite-paper-has-been-accepted.html</loc>
-<lastmod>2017-02-06T15:30:00-05:00</lastmod>
+<loc>http://johnmarohn.github.io/MarohnGroup-20170206-153027--Perovskite-paper-has-been-accepted.html</loc>
+<lastmod>2017-02-06T22:52:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -124,7 +124,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://johnmarohn.github.io/category/news</loc>
-<lastmod>2017-02-06T15:30:00-04:56</lastmod>
+<lastmod>2017-02-06T22:52:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -173,7 +173,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://johnmarohn.github.io/tag/news/</loc>
-<lastmod>2017-02-06T15:30:00-04:56</lastmod>
+<lastmod>2017-02-06T22:52:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -187,7 +187,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://johnmarohn.github.io/author/john-a-marohn-jam99cornelledu.html</loc>
-<lastmod>2017-02-06T15:30:00-04:56</lastmod>
+<lastmod>2017-02-06T22:52:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
