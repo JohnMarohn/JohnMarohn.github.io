@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://johnmarohn.github.io/</loc>
-<lastmod>2018-12-14T17:46:12-00:00</lastmod>
+<lastmod>2020-03-05T12:08:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/archives.html</loc>
-<lastmod>2018-12-14T17:46:12-00:00</lastmod>
+<lastmod>2020-03-05T12:08:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/tags.html</loc>
-<lastmod>2018-12-14T17:46:12-00:00</lastmod>
+<lastmod>2020-03-05T12:08:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/categories.html</loc>
-<lastmod>2018-12-14T17:46:12-00:00</lastmod>
+<lastmod>2020-03-05T12:08:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -40,7 +40,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://johnmarohn.github.io/pages/2-Publications.html</loc>
-<lastmod>2018-11-14T09:49:01-05:00</lastmod>
+<lastmod>2020-03-05T11:54:01-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
