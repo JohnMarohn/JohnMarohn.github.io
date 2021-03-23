@@ -1,93 +1,67 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="en">
     <head>
-
-		<!-- Using MathJax, with the delimiters $ -->
-		<!-- Conflict with pygments for the .mo and .mi -->
-		<script type="text/x-mathjax-config">
-		
-			MathJax.Hub.Config({
-			"HTML-CSS": {
-			styles: {".MathJax .mo, .MathJax .mi": {color: "black ! important"}}
-			},
-			TeX: {equationNumbers: {autoNumber: "AMS"}},
-			tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']],processEscapes: true}
-			});
-			
-			MathJax.Hub.Register.StartupHook("HTML-CSS Jax Ready",function () {
-			var VARIANT = MathJax.OutputJax["HTML-CSS"].FONTDATA.VARIANT;
-			VARIANT["normal"].fonts.unshift("MathJax_SansSerif");
-			VARIANT["bold"].fonts.unshift("MathJax_SansSerif-bold");
-			VARIANT["italic"].fonts.unshift("MathJax_SansSerif-italic");
-			VARIANT["-tex-mathit"].fonts.unshift("MathJax_SansSerif-italic");
-			});
-			
-			MathJax.Hub.Register.StartupHook("SVG Jax Ready",function () {
-			var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;
-			VARIANT["normal"].fonts.unshift("MathJax_SansSerif");
-			VARIANT["bold"].fonts.unshift("MathJax_SansSerif-bold");
-			VARIANT["italic"].fonts.unshift("MathJax_SansSerif-italic");
-			VARIANT["-tex-mathit"].fonts.unshift("MathJax_SansSerif-italic");
-			});
-		</script>
-
-		<script type="text/javascript"
-		src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-		</script>
-
-        <meta charset="utf-8"> 
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="author" content="John A. Marohn" />
-        <meta name="copyright" content="John A. Marohn" />
+        <link rel="stylesheet" type="text/css" href="http://johnmarohn.github.io/theme/css/elegant.prod.9e9d5ce754.css" media="screen">
+        <link rel="stylesheet" type="text/css" href="http://johnmarohn.github.io/theme/css/custom.css" media="screen">
+        <link rel="dns-prefetch" href="//fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 
+        <meta name="author" content="John A. Marohn" />
+
+        <meta property="og:type" content="article" />
+        <meta name="twitter:card" content="summary">
+
+<meta property="og:title" content="The Marohn Group"/>
+<meta name="twitter:title" content="The Marohn Group">
+<meta property="og:url" content="http://johnmarohn.github.io" />
+<meta property="og:site_name" content="The Marohn Group" />
+<meta property="og:article:author" content="John A. Marohn" />
+<meta name="keywords" content=" EYH,  links,  news,  outreach,  PhD thesis,  photo,  research,  news,  outreach,  research, " />
         <title>The Marohn Group - photo tag</title>
-        <link href="http://cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
-        <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css" rel="stylesheet">
-        <link rel="stylesheet" type="text/css" href="http://johnmarohn.github.io/theme/css/style.css" media="screen">
-        <link rel="stylesheet" type="text/css" href="http://johnmarohn.github.io/theme/css/solarizedlight.css" media="screen">
-        <link rel="shortcut icon" href="http://johnmarohn.github.io/images/favicon.ico" type="image/x-icon" />
-        <link rel="apple-touch-icon" href="http://johnmarohn.github.io/theme/images/apple-touch-icon.png" />
-        <link rel="apple-touch-icon" sizes="57x57" href="http://johnmarohn.github.io/theme/images/apple-touch-icon-57x57.png" />
-        <link rel="apple-touch-icon" sizes="72x72" href="http://johnmarohn.github.io/theme/images/apple-touch-icon-72x72.png" />
-        <link rel="apple-touch-icon" sizes="114x114" href="http://johnmarohn.github.io/theme/images/apple-touch-icon-114x114.png" />
-        <link rel="apple-touch-icon" sizes="144x144" href="http://johnmarohn.github.io/theme/images/apple-touch-icon-144x144.png" />
-        <link rel="icon" href="http://johnmarohn.github.io/theme/images/apple-touch-icon-144x144.png" />
+
+
     </head>
     <body>
-		<div class="container" align="middle">
-			<a class="brand" href="http://johnmarohn.github.io/"><img src="http://johnmarohn.github.io/images/MarohnHeader.jpg" alt="The Marohn Group" align="middle"></a>
-		</div>
-        <div id="content-sans-footer">
-        <div class="navbar navbar-static-top">
-            <div class="navbar-inner">
-                <div class="container">
-                    <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </a>
-                    <a class="brand" href="http://johnmarohn.github.io/"><span class=site-name>The Marohn Group</span></a>
-                    <div class="nav-collapse collapse">
-                        <ul class="nav pull-right top-menu">
-                            <li ><a href="http://johnmarohn.github.io/">Updates</a></li>
-                            <li ><a href="http://johnmarohn.github.io/pages/1-Research.html">Research</a></li>
-                            <li ><a href="http://johnmarohn.github.io/pages/2-Publications.html">Publications</a></li>
-                            <li ><a href="http://johnmarohn.github.io/pages/3-Theses.html">Theses</a></li>
-                            <li ><a href="http://johnmarohn.github.io/pages/4-Contact.html">Contact</a></li>
-                            <li ><a href="http://johnmarohn.github.io/pages/5-Links.html">Links</a></li>
-                            <li ><a href="http://johnmarohn.github.io/categories.html">Categories</a></li>
-                            <li ><a href="http://johnmarohn.github.io/tags.html">Tags</a></li>
-                            <li ><a href="http://johnmarohn.github.io/archives.html">Archives</a></li>
-                            <li><form class="navbar-search" action="http://johnmarohn.github.io/search.html" onsubmit="return validateForm(this.elements['q'].value);"> <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input"></form></li>
-                        </ul>
+        <div id="content">
+            <div class="navbar navbar-static-top">
+                <div class="navbar-inner">
+                    <div class="container-fluid">
+                        <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </a>
+                        <a class="brand" href="http://johnmarohn.github.io/"><span class=site-name>The Marohn Group</span></a>
+                        <div class="nav-collapse collapse">
+                            <ul class="nav pull-right top-menu">
+                                <li >
+                                    <a href=
+                                       http://johnmarohn.github.io
+                                    >Home</a>
+                                </li>
+                                <li ><a href="http://johnmarohn.github.io/pages/1-Research.html">Research</a></li>
+                                <li ><a href="http://johnmarohn.github.io/pages/2-Publications.html">Publications</a></li>
+                                <li ><a href="http://johnmarohn.github.io/pages/3-PI.html">Prof.&nbsp;Marohn</a></li>
+                                <li ><a href="http://johnmarohn.github.io/pages/4-Group.html">Group&nbsp;Members</a></li>
+                                <li ><a href="http://johnmarohn.github.io/pages/5-Links.html">Links</a></li>
+                                <li ><a href="http://johnmarohn.github.io/categories.html">Categories</a></li>
+                                <li ><a href="http://johnmarohn.github.io/tags.html">Tags</a></li>
+                                <li ><a href="http://johnmarohn.github.io/archives.html">Archives</a></li>
+                                <li><form class="navbar-search" action="http://johnmarohn.github.io/search.html" onsubmit="return validateForm(this.elements['q'].value);"> <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input"></form></li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="container-fluid">
-            <div class="row-fluid">
-                <div class="span1"></div>
-                <div class="span10">
+            <div class="container-fluid">
+                <div class="row-fluid">
+                    <div class="span1"></div>
+                    <div class="span10">
+
+
 <div class="row-fluid">
 
     <div class="row-fluid">
@@ -95,32 +69,42 @@
     </div>
 
     <div class="row-fluid">
-        <div class="span12">
+        <div class="span8 offset2">
             <header>
             <h1 id="recent-posts">Recent Posts <a id="allposts" href="http://johnmarohn.github.io/archives.html">all posts</a></h1>
             </header>
-            <ul class="list-all-articles">
-                <li>
-                <a href="http://johnmarohn.github.io/MarohnGroup-20160404-180802--Photo-Album.html">Photo Album </a> 
-                <time pubdate="pubdate" datetime="2016-04-04T18:08:00-04:00">Mon 04 April 2016</time>
-                </li>
-            </ul>
-        </div>
-    </div>
-</div>
+        <div class="recent-posts">
+            <div itemscope class="recent-posts-article">
+                <a href="http://johnmarohn.github.io/MarohnGroup-20160404-180802--Photo-Album.html">
+                    Photo&nbsp;Album
+                </a>
+                <div class="recent-posts-posted">
+                    posted in
+                    <a href="http://johnmarohn.github.io/categories.html#news-ref">news</a>
+                    <time itemprop="dateCreated" datetime="2016-04-04T18:08:00-04:00">Mon 04 April 2016</time>
                 </div>
-                <div class="span1"></div>
             </div>
         </div>
+        </div>
     </div>
-<footer>
-<div id="footer">
-    <ul class="footer-content">
-        <li class="elegant-power">Powered by <a href="http://getpelican.com/" title="Pelican Home Page">Pelican</a>. Theme: <a href="http://oncrashreboot.com/pelican-elegant" title="Theme Elegant Home Page">Elegant</a> by <a href="http://oncrashreboot.com" title="Talha Mansoor Home Page">Talha Mansoor</a></li>
-    </ul>
 </div>
-</footer>        <script src="http://code.jquery.com/jquery.min.js"></script>
-        <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js"></script>
+                    </div>
+                    <div class="span1"></div>
+                </div>
+            </div>
+        </div>
+<footer>
+
+
+
+
+    <div id="fpowered">
+        Powered by: <a href="http://getpelican.com/" title="Pelican Home Page" target="_blank" rel="nofollow noopener noreferrer">Pelican</a>
+        Theme: <a href="https://elegant.oncrashreboot.com/" title="Theme Elegant Home Page" target="_blank" rel="nofollow noopener noreferrer">Elegant</a>
+    </div>
+</footer>        <script src="//code.jquery.com/jquery.min.js"></script>
+        <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
+        <script src="http://johnmarohn.github.io/theme/js/elegant.prod.9e9d5ce754.js"></script>
         <script>
             function validateForm(query)
             {
@@ -128,4 +112,6 @@
             }
         </script>
     </body>
+    <!-- Theme: Elegant built for Pelican
+        License : MIT -->
 </html>

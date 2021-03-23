@@ -1,144 +1,264 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="en">
     <head>
-
-		<!-- Using MathJax, with the delimiters $ -->
-		<!-- Conflict with pygments for the .mo and .mi -->
-		<script type="text/x-mathjax-config">
-		
-			MathJax.Hub.Config({
-			"HTML-CSS": {
-			styles: {".MathJax .mo, .MathJax .mi": {color: "black ! important"}}
-			},
-			TeX: {equationNumbers: {autoNumber: "AMS"}},
-			tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']],processEscapes: true}
-			});
-			
-			MathJax.Hub.Register.StartupHook("HTML-CSS Jax Ready",function () {
-			var VARIANT = MathJax.OutputJax["HTML-CSS"].FONTDATA.VARIANT;
-			VARIANT["normal"].fonts.unshift("MathJax_SansSerif");
-			VARIANT["bold"].fonts.unshift("MathJax_SansSerif-bold");
-			VARIANT["italic"].fonts.unshift("MathJax_SansSerif-italic");
-			VARIANT["-tex-mathit"].fonts.unshift("MathJax_SansSerif-italic");
-			});
-			
-			MathJax.Hub.Register.StartupHook("SVG Jax Ready",function () {
-			var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;
-			VARIANT["normal"].fonts.unshift("MathJax_SansSerif");
-			VARIANT["bold"].fonts.unshift("MathJax_SansSerif-bold");
-			VARIANT["italic"].fonts.unshift("MathJax_SansSerif-italic");
-			VARIANT["-tex-mathit"].fonts.unshift("MathJax_SansSerif-italic");
-			});
-		</script>
-
-		<script type="text/javascript"
-		src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-		</script>
-
-        <meta charset="utf-8"> 
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="author" content="John A. Marohn" />
-        <meta name="copyright" content="John A. Marohn" />
+        <link rel="stylesheet" type="text/css" href="http://johnmarohn.github.io/theme/css/elegant.prod.9e9d5ce754.css" media="screen">
+        <link rel="stylesheet" type="text/css" href="http://johnmarohn.github.io/theme/css/custom.css" media="screen">
+        <link rel="dns-prefetch" href="//fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 
+        <meta name="author" content="John A. Marohn" />
+
+        <meta property="og:type" content="article" />
+        <meta name="twitter:card" content="summary">
+
+<meta property="og:title" content="All Posts · The Marohn Group"/>
+<meta name="twitter:title" content="All Posts · The Marohn Group">
+<meta property="og:url" content="http://johnmarohn.github.io/archives.html" />
+<meta property="og:description" content="Full archives of The Marohn Group blog" />
+<meta name="twitter:description" content="Full archives of The Marohn Group blog">
+<meta property="og:site_name" content="The Marohn Group" />
+<meta property="og:article:author" content="John A. Marohn" />
         <title>All Posts · The Marohn Group
 </title>
-        <link href="http://cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
-        <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css" rel="stylesheet">
-        <link rel="stylesheet" type="text/css" href="http://johnmarohn.github.io/theme/css/style.css" media="screen">
-        <link rel="stylesheet" type="text/css" href="http://johnmarohn.github.io/theme/css/solarizedlight.css" media="screen">
-        <link rel="shortcut icon" href="http://johnmarohn.github.io/images/favicon.ico" type="image/x-icon" />
-        <link rel="apple-touch-icon" href="http://johnmarohn.github.io/theme/images/apple-touch-icon.png" />
-        <link rel="apple-touch-icon" sizes="57x57" href="http://johnmarohn.github.io/theme/images/apple-touch-icon-57x57.png" />
-        <link rel="apple-touch-icon" sizes="72x72" href="http://johnmarohn.github.io/theme/images/apple-touch-icon-72x72.png" />
-        <link rel="apple-touch-icon" sizes="114x114" href="http://johnmarohn.github.io/theme/images/apple-touch-icon-114x114.png" />
-        <link rel="apple-touch-icon" sizes="144x144" href="http://johnmarohn.github.io/theme/images/apple-touch-icon-144x144.png" />
-        <link rel="icon" href="http://johnmarohn.github.io/theme/images/apple-touch-icon-144x144.png" />
+
+
     </head>
     <body>
-		<div class="container" align="middle">
-			<a class="brand" href="http://johnmarohn.github.io/"><img src="http://johnmarohn.github.io/images/MarohnHeader.jpg" alt="The Marohn Group" align="middle"></a>
-		</div>
-        <div id="content-sans-footer">
-        <div class="navbar navbar-static-top">
-            <div class="navbar-inner">
-                <div class="container">
-                    <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </a>
-                    <a class="brand" href="http://johnmarohn.github.io/"><span class=site-name>The Marohn Group</span></a>
-                    <div class="nav-collapse collapse">
-                        <ul class="nav pull-right top-menu">
-                            <li ><a href="http://johnmarohn.github.io/">Updates</a></li>
-                            <li ><a href="http://johnmarohn.github.io/pages/1-Research.html">Research</a></li>
-                            <li ><a href="http://johnmarohn.github.io/pages/2-Publications.html">Publications</a></li>
-                            <li ><a href="http://johnmarohn.github.io/pages/3-Theses.html">Theses</a></li>
-                            <li ><a href="http://johnmarohn.github.io/pages/4-Contact.html">Contact</a></li>
-                            <li ><a href="http://johnmarohn.github.io/pages/5-Links.html">Links</a></li>
-                            <li ><a href="http://johnmarohn.github.io/categories.html">Categories</a></li>
-                            <li ><a href="http://johnmarohn.github.io/tags.html">Tags</a></li>
-                            <li  class="active"><a href="http://johnmarohn.github.io/archives.html">Archives</a></li>
-                            <li><form class="navbar-search" action="http://johnmarohn.github.io/search.html" onsubmit="return validateForm(this.elements['q'].value);"> <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input"></form></li>
-                        </ul>
+        <div id="content">
+            <div class="navbar navbar-static-top">
+                <div class="navbar-inner">
+                    <div class="container-fluid">
+                        <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </a>
+                        <a class="brand" href="http://johnmarohn.github.io/"><span class=site-name>The Marohn Group</span></a>
+                        <div class="nav-collapse collapse">
+                            <ul class="nav pull-right top-menu">
+                                <li >
+                                    <a href=
+                                       http://johnmarohn.github.io
+                                    >Home</a>
+                                </li>
+                                <li ><a href="http://johnmarohn.github.io/pages/1-Research.html">Research</a></li>
+                                <li ><a href="http://johnmarohn.github.io/pages/2-Publications.html">Publications</a></li>
+                                <li ><a href="http://johnmarohn.github.io/pages/3-PI.html">Prof.&nbsp;Marohn</a></li>
+                                <li ><a href="http://johnmarohn.github.io/pages/4-Group.html">Group&nbsp;Members</a></li>
+                                <li ><a href="http://johnmarohn.github.io/pages/5-Links.html">Links</a></li>
+                                <li ><a href="http://johnmarohn.github.io/categories.html">Categories</a></li>
+                                <li ><a href="http://johnmarohn.github.io/tags.html">Tags</a></li>
+                                <li  class="active"><a href="http://johnmarohn.github.io/archives.html">Archives</a></li>
+                                <li><form class="navbar-search" action="http://johnmarohn.github.io/search.html" onsubmit="return validateForm(this.elements['q'].value);"> <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input"></form></li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="container-fluid">
-            <div class="row-fluid">
-                <div class="span1"></div>
-                <div class="span10">
-
+            <div class="container-fluid">
+                <div class="row-fluid">
+                    <div class="span1"></div>
+                    <div class="span10">
 <div class="row-fluid">
-    <header class="page_header span10 offset2">
-    <h1><a href="/archives.html">All Posts</a></h1>
+    <header class="page-header span10 offset2">
+    <h1><a href="http://johnmarohn.github.io/archives.html">All Posts</a></h1>
     </header>
 </div>
 <div class="row-fluid">
-    <div class="span8 offset2">
-        <ul class="list-all-articles">
-            <li><a href="http://johnmarohn.github.io/MarohnGroup-20170206-153027--Perovskite-paper-has-been-accepted.html">Ali's perovskite paper has been accepted </a>
-            <time pubdate="pubdate" datetime="2017-02-06T22:52:00-05:00">Mon 06 February 2017</time>
-            </li>
-            <li><a href="http://johnmarohn.github.io/MarohnGroup-20161217-165316--Links-page-added.html">Links page added </a>
-            <time pubdate="pubdate" datetime="2016-12-17T16:53:00-05:00">Sat 17 December 2016</time>
-            </li>
-            <li><a href="http://johnmarohn.github.io/MarohnGroup-20160814-100412--Visitors-from-the-Netherlands.html">Visitors from the Netherlands </a>
-            <time pubdate="pubdate" datetime="2016-08-14T10:04:00-04:00">Sun 14 August 2016</time>
-            </li>
-            <li><a href="http://johnmarohn.github.io/MarohnGroup-20160512-153241--Outreach-activities-at-Caroline-Elementary-School.html">Outreach activities at Caroline Elementary School </a>
-            <time pubdate="pubdate" datetime="2016-05-12T15:32:00-04:00">Thu 12 May 2016</time>
-            </li>
-            <li><a href="http://johnmarohn.github.io/MarohnGroup-20160505-145552--Marohn-Group-at-Cornell-Expanding-Your-Horizon-(EYH).html">Marohn Group at Cornell Expanding Your Horizons (EYH) </a>
-            <time pubdate="pubdate" datetime="2016-05-05T14:55:00-04:00">Thu 05 May 2016</time>
-            </li>
-            <li><a href="http://johnmarohn.github.io/MarohnGroup-20160405-182303--Group-theses-posted.html">Group theses posted </a>
-            <time pubdate="pubdate" datetime="2016-04-05T18:23:00-04:00">Tue 05 April 2016</time>
-            </li>
-            <li><a href="http://johnmarohn.github.io/MarohnGroup-20160404-180802--Photo-Album.html">Photo Album </a>
-            <time pubdate="pubdate" datetime="2016-04-04T18:08:00-04:00">Mon 04 April 2016</time>
-            </li>
-            <li><a href="http://johnmarohn.github.io/MarohnGroup-20150703-174539--Welcome.html">Welcome </a>
-            <time pubdate="pubdate" datetime="2015-07-03T17:45:00-04:00">Fri 03 July 2015</time>
-            </li>
-        </ul>
+    <div class="span10 offset2">
+        <div class="blog-archives">
+                    <h2 id="2018"><a href="#2018">2018</a></h2>
+
+
+                        <div itemscope>
+
+                <a href="http://johnmarohn.github.io/MarohnGroup-20180305-184151--Collaborator-Lee-Harrell-presents-a-poster.html">
+                    Collaborator Lee Harrell presents a poster at the 2018 March <span class="caps">APS</span>&nbsp;Meeting
+                </a>
+                <time itemprop="dateCreated" datetime="2018-03-05T18:41:00-05:00">
+                    Mon 05 March 2018
+                </time>
+                </div>
+
+
+                        <div itemscope>
+
+                <a href="http://johnmarohn.github.io/MarohnGroup-20180214-163143--The-Spin-Mechanics-5-and-Nano-MRI-6-meeting.html">
+                    The Spin Mechanics 5 and Nano <span class="caps">MRI</span> 6&nbsp;meeting
+                </a>
+                <time itemprop="dateCreated" datetime="2018-02-14T16:31:00-05:00">
+                    Wed 14 February 2018
+                </time>
+                </div>
+
+
+                        <div itemscope class="last-entry-of-year">
+
+                <a href="http://johnmarohn.github.io/MarohnGroup-20180126-144129--Corinne-publishes-a-paper.html">
+                    Corinne publishes a paper on cryogenic nanopositioning and&nbsp;alignment
+                </a>
+                <time itemprop="dateCreated" datetime="2018-01-26T14:41:00-05:00">
+                    Fri 26 January 2018
+                </time>
+                </div>
+                        <h2 id="2017"><a href="#2017">2017</a></h2>
+
+
+                        <div itemscope>
+
+                <a href="http://johnmarohn.github.io/MarohnGroup-20171128-202954--Ali-and-John-give-talks-at-the-2017-MRS-Fall-Meeting..html">
+                    Ali and John give talks at the 2017 <span class="caps">MRS</span> Fall&nbsp;Meeting
+                </a>
+                <time itemprop="dateCreated" datetime="2017-11-28T20:29:00-05:00">
+                    Tue 28 November 2017
+                </time>
+                </div>
+
+
+                        <div itemscope>
+
+                <a href="http://johnmarohn.github.io/MarohnGroup-20171026-175619--Ryan-publishes-a-paper.html">
+                    Ryan publishes a paper on vector electric field&nbsp;measurements
+                </a>
+                <time itemprop="dateCreated" datetime="2017-10-26T17:56:00-04:00">
+                    Thu 26 October 2017
+                </time>
+                </div>
+
+
+                        <div itemscope>
+
+                <a href="http://johnmarohn.github.io/MarohnGroup-20170628-174945--Ryan-and-Ali-give-talks.html">
+                    Ryan and Ali give talks at national and international&nbsp;conferences
+                </a>
+                <time itemprop="dateCreated" datetime="2017-06-28T17:49:00-04:00">
+                    Wed 28 June 2017
+                </time>
+                </div>
+
+
+                        <div itemscope>
+
+                <a href="http://johnmarohn.github.io/MarohnGroup-20170609-180000--Solar-cell-paper-published-with-press-release.html">
+                    Solar cell paper published with press&nbsp;release
+                </a>
+                <time itemprop="dateCreated" datetime="2017-06-09T18:00:00-04:00">
+                    Fri 09 June 2017
+                </time>
+                </div>
+
+
+                        <div itemscope class="last-entry-of-year">
+
+                <a href="http://johnmarohn.github.io/MarohnGroup-20170206-153027--Perovskite-paper-has-been-accepted.html">
+                    Ali&#8217;s perovskite paper has been&nbsp;accepted
+                </a>
+                <time itemprop="dateCreated" datetime="2017-02-06T22:52:00-05:00">
+                    Mon 06 February 2017
+                </time>
+                </div>
+                        <h2 id="2016"><a href="#2016">2016</a></h2>
+
+
+                        <div itemscope>
+
+                <a href="http://johnmarohn.github.io/MarohnGroup-20161217-165316--Links-page-added.html">
+                    Links page&nbsp;added
+                </a>
+                <time itemprop="dateCreated" datetime="2016-12-17T16:53:00-05:00">
+                    Sat 17 December 2016
+                </time>
+                </div>
+
+
+                        <div itemscope>
+
+                <a href="http://johnmarohn.github.io/MarohnGroup-20160814-100412--Visitors-from-the-Netherlands.html">
+                    Visitors from the&nbsp;Netherlands
+                </a>
+                <time itemprop="dateCreated" datetime="2016-08-14T10:04:00-04:00">
+                    Sun 14 August 2016
+                </time>
+                </div>
+
+
+                        <div itemscope>
+
+                <a href="http://johnmarohn.github.io/MarohnGroup-20160512-153241--Outreach-activities-at-Caroline-Elementary-School.html">
+                    Outreach activities at Caroline Elementary&nbsp;School
+                </a>
+                <time itemprop="dateCreated" datetime="2016-05-12T15:32:00-04:00">
+                    Thu 12 May 2016
+                </time>
+                </div>
+
+
+                        <div itemscope>
+
+                <a href="http://johnmarohn.github.io/MarohnGroup-20160505-145552--Marohn-Group-at-Cornell-Expanding-Your-Horizon-(EYH).html">
+                    Marohn Group at Cornell Expanding Your Horizons (<span class="caps">EYH</span>)
+                </a>
+                <time itemprop="dateCreated" datetime="2016-05-05T14:55:00-04:00">
+                    Thu 05 May 2016
+                </time>
+                </div>
+
+
+                        <div itemscope>
+
+                <a href="http://johnmarohn.github.io/MarohnGroup-20160405-182303--Group-theses-posted.html">
+                    Group theses&nbsp;posted
+                </a>
+                <time itemprop="dateCreated" datetime="2016-04-05T18:23:00-04:00">
+                    Tue 05 April 2016
+                </time>
+                </div>
+
+
+                        <div itemscope class="last-entry-of-year">
+
+                <a href="http://johnmarohn.github.io/MarohnGroup-20160404-180802--Photo-Album.html">
+                    Photo&nbsp;Album
+                </a>
+                <time itemprop="dateCreated" datetime="2016-04-04T18:08:00-04:00">
+                    Mon 04 April 2016
+                </time>
+                </div>
+                        <h2 id="2015"><a href="#2015">2015</a></h2>
+
+                    <div itemscope class="last-entry-of-year">
+
+                <a href="http://johnmarohn.github.io/MarohnGroup-20150703-174539--Welcome.html">
+                    Welcome
+                </a>
+                <time itemprop="dateCreated" datetime="2015-07-03T17:45:00-04:00">
+                    Fri 03 July 2015
+                </time>
+                </div>
+        </div>
     </div>
 </div>
 
+                    </div>
+                    <div class="span1"></div>
                 </div>
-                <div class="span1"></div>
             </div>
         </div>
-    </div>
 <footer>
-<div id="footer">
-    <ul class="footer-content">
-        <li class="elegant-power">Powered by <a href="http://getpelican.com/" title="Pelican Home Page">Pelican</a>. Theme: <a href="http://oncrashreboot.com/pelican-elegant" title="Theme Elegant Home Page">Elegant</a> by <a href="http://oncrashreboot.com" title="Talha Mansoor Home Page">Talha Mansoor</a></li>
-    </ul>
-</div>
-</footer>        <script src="http://code.jquery.com/jquery.min.js"></script>
-        <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js"></script>
+
+
+
+
+    <div id="fpowered">
+        Powered by: <a href="http://getpelican.com/" title="Pelican Home Page" target="_blank" rel="nofollow noopener noreferrer">Pelican</a>
+        Theme: <a href="https://elegant.oncrashreboot.com/" title="Theme Elegant Home Page" target="_blank" rel="nofollow noopener noreferrer">Elegant</a>
+    </div>
+</footer>        <script src="//code.jquery.com/jquery.min.js"></script>
+        <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
+        <script src="http://johnmarohn.github.io/theme/js/elegant.prod.9e9d5ce754.js"></script>
         <script>
             function validateForm(query)
             {
@@ -146,4 +266,6 @@
             }
         </script>
     </body>
+    <!-- Theme: Elegant built for Pelican
+        License : MIT -->
 </html>
