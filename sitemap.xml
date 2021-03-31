@@ -5,42 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://johnmarohn.github.io/</loc>
-<lastmod>2021-03-24T23:21:37-00:00</lastmod>
+<lastmod>2021-03-31T16:10:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/tags.html</loc>
-<lastmod>2021-03-24T23:21:37-00:00</lastmod>
+<lastmod>2021-03-31T16:10:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/categories.html</loc>
-<lastmod>2021-03-24T23:21:37-00:00</lastmod>
+<lastmod>2021-03-31T16:10:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/archives.html</loc>
-<lastmod>2021-03-24T23:21:37-00:00</lastmod>
+<lastmod>2021-03-31T16:10:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/search.html</loc>
-<lastmod>2021-03-24T23:21:37-00:00</lastmod>
+<lastmod>2021-03-31T16:10:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/404.html</loc>
-<lastmod>2021-03-24T23:21:37-00:00</lastmod>
+<lastmod>2021-03-31T16:10:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -61,7 +61,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://johnmarohn.github.io/pages/3-PI.html</loc>
-<lastmod>2021-03-23T11:28:17-04:00</lastmod>
+<lastmod>2021-03-31T13:22:36-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -81,127 +81,134 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://johnmarohn.github.io/MarohnGroup-20210331-132547--Installing-and-configuring-Zotero.html</loc>
+<lastmod>2021-03-31T16:09:26-04:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://johnmarohn.github.io/MarohnGroup-20200526-195358--2D-perovskite-paper.html</loc>
-<lastmod>2021-03-24T23:15:44-04:00</lastmod>
+<lastmod>2021-03-31T13:22:37-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/MarohnGroup-20200117-221611--Congratulations-Dr.-Tirmzi.html</loc>
-<lastmod>2021-03-24T23:15:44-04:00</lastmod>
+<lastmod>2021-03-31T13:22:36-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/MarohnGroup-20190610-153147--New-mathematical-description-of-electric-force-microscopy.html</loc>
-<lastmod>2021-03-24T23:15:44-04:00</lastmod>
+<lastmod>2021-03-31T13:22:37-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/MarohnGroup-20190331-135936--Conference-paper-summarizing-our-new-view-of-electric-force-microscopy.html</loc>
-<lastmod>2021-03-24T23:15:44-04:00</lastmod>
+<lastmod>2021-03-31T13:22:37-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/MarohnGroup-20190117-104212--Perovskite-paper-with-DOE-NREL.html</loc>
-<lastmod>2021-03-24T23:15:44-04:00</lastmod>
+<lastmod>2021-03-31T13:22:37-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/MarohnGroup-20180919-205456--John-gives-two-national-conference-talks-on-semiconductor-characterization.html</loc>
-<lastmod>2021-03-24T23:15:44-04:00</lastmod>
+<lastmod>2021-03-31T13:22:36-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/MarohnGroup-20180612-202255--Ali-presents-a-poster-an-international-coference.html</loc>
-<lastmod>2021-03-24T23:15:44-04:00</lastmod>
+<lastmod>2021-03-31T13:22:36-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/MarohnGroup-20180531-123522--Congratulations-Dr.-Nguyen.html</loc>
-<lastmod>2021-03-24T23:15:44-04:00</lastmod>
+<lastmod>2021-03-31T13:22:36-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/MarohnGroup-20180305-184151--Collaborator-Lee-Harrell-presents-a-poster.html</loc>
-<lastmod>2021-03-24T23:15:44-04:00</lastmod>
+<lastmod>2021-03-31T13:22:36-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/MarohnGroup-20180228-122513--Congratulations-Dr.-Isaac.html</loc>
-<lastmod>2021-03-24T23:15:44-04:00</lastmod>
+<lastmod>2021-03-31T13:22:36-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/MarohnGroup-20180220-143840--Hoang-posts-a-single-electron-imaging-proposal.html</loc>
-<lastmod>2021-03-24T23:15:44-04:00</lastmod>
+<lastmod>2021-03-31T13:22:36-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/MarohnGroup-20180214-163143--The-Spin-Mechanics-5-and-Nano-MRI-6-meeting.html</loc>
-<lastmod>2021-03-24T23:15:44-04:00</lastmod>
+<lastmod>2021-03-31T13:22:36-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/MarohnGroup-20180126-144129--Corinne-publishes-a-paper.html</loc>
-<lastmod>2021-03-24T23:15:44-04:00</lastmod>
+<lastmod>2021-03-31T13:22:36-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/MarohnGroup-20171128-202954--Ali-and-John-give-talks-at-the-2017-MRS-Fall-Meeting..html</loc>
-<lastmod>2021-03-24T23:15:44-04:00</lastmod>
+<lastmod>2021-03-31T13:22:36-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/MarohnGroup-20171026-175619--Ryan-publishes-a-paper.html</loc>
-<lastmod>2021-03-24T23:15:44-04:00</lastmod>
+<lastmod>2021-03-31T13:22:36-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/MarohnGroup-20170628-174945--Ryan-and-Ali-give-talks.html</loc>
-<lastmod>2021-03-24T23:15:44-04:00</lastmod>
+<lastmod>2021-03-31T13:22:36-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/MarohnGroup-20170609-180000--Solar-cell-paper-published-with-press-release.html</loc>
-<lastmod>2021-03-24T23:15:44-04:00</lastmod>
+<lastmod>2021-03-31T13:22:36-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/MarohnGroup-20170206-153027--Perovskite-paper-has-been-accepted.html</loc>
-<lastmod>2021-03-24T23:15:44-04:00</lastmod>
+<lastmod>2021-03-31T13:22:36-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -243,21 +250,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://johnmarohn.github.io/MarohnGroup-20160404-180802--Photo-Album.html</loc>
-<lastmod>2021-03-23T15:13:26-04:00</lastmod>
+<lastmod>2021-03-31T13:22:36-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/MarohnGroup-20150703-174539--Welcome.html</loc>
-<lastmod>2021-03-23T15:13:26-04:00</lastmod>
+<lastmod>2021-03-31T13:22:36-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/category/news</loc>
-<lastmod>2021-03-24T23:15:44-04:56</lastmod>
+<lastmod>2021-03-31T13:22:36-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -271,98 +278,119 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://johnmarohn.github.io/category/research</loc>
-<lastmod>2021-03-24T23:15:44-04:56</lastmod>
+<lastmod>2021-03-31T16:09:26-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/tag/research/</loc>
-<lastmod>2021-03-24T23:15:44-04:56</lastmod>
+<lastmod>2021-03-31T16:09:26-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://johnmarohn.github.io/tag/latex/</loc>
+<lastmod>2021-03-31T16:09:26-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://johnmarohn.github.io/tag/bibtex/</loc>
+<lastmod>2021-03-31T16:09:26-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://johnmarohn.github.io/tag/zotero/</loc>
+<lastmod>2021-03-31T16:09:26-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/tag/nsf-dmr-1709879/</loc>
-<lastmod>2021-03-24T23:15:44-04:56</lastmod>
+<lastmod>2021-03-31T13:22:37-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/tag/doe-de-sc0013957/</loc>
-<lastmod>2021-03-24T23:15:44-04:56</lastmod>
+<lastmod>2021-03-31T13:22:37-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/tag/news/</loc>
-<lastmod>2021-03-24T23:15:44-04:56</lastmod>
+<lastmod>2021-03-31T13:22:36-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/tag/nsf-dmr-1309540/</loc>
-<lastmod>2021-03-24T23:15:44-04:56</lastmod>
+<lastmod>2021-03-31T13:22:37-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/tag/doe-de-sc00014664/</loc>
-<lastmod>2021-03-24T23:15:44-04:56</lastmod>
+<lastmod>2021-03-31T13:22:37-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/tag/aro-w911nf-17-1-0247/</loc>
-<lastmod>2021-03-24T23:15:44-04:56</lastmod>
+<lastmod>2021-03-31T13:22:36-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/tag/aro-w911nf-12-1-0221/</loc>
-<lastmod>2021-03-24T23:15:44-04:56</lastmod>
+<lastmod>2021-03-31T13:22:36-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/tag/nsf-dge-1045513/</loc>
-<lastmod>2021-03-24T23:15:44-04:56</lastmod>
+<lastmod>2021-03-31T13:22:36-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/tag/nsf-eccs-115420819/</loc>
-<lastmod>2021-03-24T23:15:44-04:56</lastmod>
+<lastmod>2021-03-31T13:22:36-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/tag/nsf-dmr-1719875/</loc>
-<lastmod>2021-03-24T23:15:44-04:56</lastmod>
+<lastmod>2021-03-31T13:22:36-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/tag/nsf-dmr-1120296/</loc>
-<lastmod>2021-03-24T23:15:44-04:56</lastmod>
+<lastmod>2021-03-31T13:22:36-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/tag/nsf-dmr-1602951/</loc>
-<lastmod>2021-03-24T23:15:44-04:56</lastmod>
+<lastmod>2021-03-31T13:22:36-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -397,14 +425,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://johnmarohn.github.io/tag/photo/</loc>
-<lastmod>2021-03-23T15:13:26-04:56</lastmod>
+<lastmod>2021-03-31T13:22:36-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://johnmarohn.github.io/author/hoang-long-nguyen-hn269cornelledu.html</loc>
-<lastmod>2021-03-23T15:13:26-04:56</lastmod>
+<lastmod>2021-03-31T13:22:36-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -418,7 +446,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://johnmarohn.github.io/author/john-a-marohn-jam99cornelledu.html</loc>
-<lastmod>2021-03-24T23:15:44-04:56</lastmod>
+<lastmod>2021-03-31T16:09:26-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
