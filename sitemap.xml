@@ -4,463 +4,463 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://johnmarohn.github.io/</loc>
-<lastmod>2021-06-08T18:09:20-00:00</lastmod>
+<loc>https://marohn.chem.cornell.edu/</loc>
+<lastmod>2023-09-01T19:01:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/tags.html</loc>
-<lastmod>2021-06-08T18:09:20-00:00</lastmod>
+<loc>https://marohn.chem.cornell.edu/tags.html</loc>
+<lastmod>2023-09-01T19:01:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/categories.html</loc>
-<lastmod>2021-06-08T18:09:20-00:00</lastmod>
+<loc>https://marohn.chem.cornell.edu/categories.html</loc>
+<lastmod>2023-09-01T19:01:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/archives.html</loc>
-<lastmod>2021-06-08T18:09:20-00:00</lastmod>
+<loc>https://marohn.chem.cornell.edu/archives.html</loc>
+<lastmod>2023-09-01T19:01:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/search.html</loc>
-<lastmod>2021-06-08T18:09:20-00:00</lastmod>
+<loc>https://marohn.chem.cornell.edu/search.html</loc>
+<lastmod>2023-09-01T19:01:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/404.html</loc>
-<lastmod>2021-06-08T18:09:20-00:00</lastmod>
+<loc>https://marohn.chem.cornell.edu/404.html</loc>
+<lastmod>2023-09-01T19:01:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/pages/1-Research.html</loc>
+<loc>https://marohn.chem.cornell.edu/pages/1-Research.html</loc>
 <lastmod>2021-02-04T23:29:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/pages/2-Publications.html</loc>
-<lastmod>2021-02-04T22:50:00-05:00</lastmod>
+<loc>https://marohn.chem.cornell.edu/pages/2-Publications.html</loc>
+<lastmod>2023-09-01T13:00:00-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/pages/3-PI.html</loc>
+<loc>https://marohn.chem.cornell.edu/pages/3-PI.html</loc>
 <lastmod>2021-03-31T13:22:36-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/pages/4-Group.html</loc>
-<lastmod>2021-02-07T00:00:00-05:00</lastmod>
+<loc>https://marohn.chem.cornell.edu/pages/4-Group.html</loc>
+<lastmod>2023-09-01T00:00:00-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/pages/5-Links.html</loc>
+<loc>https://marohn.chem.cornell.edu/pages/5-Links.html</loc>
 <lastmod>2018-11-14T09:45:01-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/MarohnGroup-20210602--Group-Instagram.html</loc>
-<lastmod>2021-06-08T18:06:56-04:00</lastmod>
+<loc>https://marohn.chem.cornell.edu/MarohnGroup-20210602--Group-Instagram.html</loc>
+<lastmod>2023-09-01T17:15:52-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/MarohnGroup-20210331-132547--Installing-and-configuring-Zotero.html</loc>
-<lastmod>2021-06-08T17:51:54-04:00</lastmod>
+<loc>https://marohn.chem.cornell.edu/MarohnGroup-20210331-132547--Installing-and-configuring-Zotero.html</loc>
+<lastmod>2023-09-01T17:15:52-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/MarohnGroup-20200526-195358--2D-perovskite-paper.html</loc>
-<lastmod>2021-06-08T17:51:54-04:00</lastmod>
+<loc>https://marohn.chem.cornell.edu/MarohnGroup-20200526-195358--2D-perovskite-paper.html</loc>
+<lastmod>2023-09-01T17:15:52-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/MarohnGroup-20200117-221611--Congratulations-Dr.-Tirmzi.html</loc>
-<lastmod>2021-06-08T17:51:54-04:00</lastmod>
+<loc>https://marohn.chem.cornell.edu/MarohnGroup-20200117-221611--Congratulations-Dr.-Tirmzi.html</loc>
+<lastmod>2023-09-01T17:15:52-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/MarohnGroup-20190610-153147--New-mathematical-description-of-electric-force-microscopy.html</loc>
-<lastmod>2021-06-08T17:51:54-04:00</lastmod>
+<loc>https://marohn.chem.cornell.edu/MarohnGroup-20190610-153147--New-mathematical-description-of-electric-force-microscopy.html</loc>
+<lastmod>2023-09-01T17:15:52-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/MarohnGroup-20190331-135936--Conference-paper-summarizing-our-new-view-of-electric-force-microscopy.html</loc>
-<lastmod>2021-06-08T17:51:54-04:00</lastmod>
+<loc>https://marohn.chem.cornell.edu/MarohnGroup-20190331-135936--Conference-paper-summarizing-our-new-view-of-electric-force-microscopy.html</loc>
+<lastmod>2023-09-01T17:15:52-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/MarohnGroup-20190117-104212--Perovskite-paper-with-DOE-NREL.html</loc>
-<lastmod>2021-06-08T17:51:54-04:00</lastmod>
+<loc>https://marohn.chem.cornell.edu/MarohnGroup-20190117-104212--Perovskite-paper-with-DOE-NREL.html</loc>
+<lastmod>2023-09-01T17:15:52-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/MarohnGroup-20180919-205456--John-gives-two-national-conference-talks-on-semiconductor-characterization.html</loc>
-<lastmod>2021-06-08T17:51:54-04:00</lastmod>
+<loc>https://marohn.chem.cornell.edu/MarohnGroup-20180919-205456--John-gives-two-national-conference-talks-on-semiconductor-characterization.html</loc>
+<lastmod>2023-09-01T17:15:52-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/MarohnGroup-20180612-202255--Ali-presents-a-poster-an-international-coference.html</loc>
-<lastmod>2021-06-08T17:51:54-04:00</lastmod>
+<loc>https://marohn.chem.cornell.edu/MarohnGroup-20180612-202255--Ali-presents-a-poster-an-international-coference.html</loc>
+<lastmod>2023-09-01T17:15:52-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/MarohnGroup-20180531-123522--Congratulations-Dr.-Nguyen.html</loc>
-<lastmod>2021-06-08T17:51:54-04:00</lastmod>
+<loc>https://marohn.chem.cornell.edu/MarohnGroup-20180531-123522--Congratulations-Dr.-Nguyen.html</loc>
+<lastmod>2023-09-01T17:15:52-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/MarohnGroup-20180305-184151--Collaborator-Lee-Harrell-presents-a-poster.html</loc>
-<lastmod>2021-06-08T17:51:54-04:00</lastmod>
+<loc>https://marohn.chem.cornell.edu/MarohnGroup-20180305-184151--Collaborator-Lee-Harrell-presents-a-poster.html</loc>
+<lastmod>2023-09-01T17:15:52-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/MarohnGroup-20180228-122513--Congratulations-Dr.-Isaac.html</loc>
-<lastmod>2021-06-08T17:51:54-04:00</lastmod>
+<loc>https://marohn.chem.cornell.edu/MarohnGroup-20180228-122513--Congratulations-Dr.-Isaac.html</loc>
+<lastmod>2023-09-01T17:15:52-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/MarohnGroup-20180220-143840--Hoang-posts-a-single-electron-imaging-proposal.html</loc>
-<lastmod>2021-06-08T17:51:54-04:00</lastmod>
+<loc>https://marohn.chem.cornell.edu/MarohnGroup-20180220-143840--Hoang-posts-a-single-electron-imaging-proposal.html</loc>
+<lastmod>2023-09-01T17:15:52-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/MarohnGroup-20180214-163143--The-Spin-Mechanics-5-and-Nano-MRI-6-meeting.html</loc>
-<lastmod>2021-06-08T17:51:54-04:00</lastmod>
+<loc>https://marohn.chem.cornell.edu/MarohnGroup-20180214-163143--The-Spin-Mechanics-5-and-Nano-MRI-6-meeting.html</loc>
+<lastmod>2023-09-01T17:15:52-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/MarohnGroup-20180126-144129--Corinne-publishes-a-paper.html</loc>
-<lastmod>2021-06-08T17:51:54-04:00</lastmod>
+<loc>https://marohn.chem.cornell.edu/MarohnGroup-20180126-144129--Corinne-publishes-a-paper.html</loc>
+<lastmod>2023-09-01T17:15:52-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/MarohnGroup-20171128-202954--Ali-and-John-give-talks-at-the-2017-MRS-Fall-Meeting..html</loc>
-<lastmod>2021-06-08T17:51:54-04:00</lastmod>
+<loc>https://marohn.chem.cornell.edu/MarohnGroup-20171128-202954--Ali-and-John-give-talks-at-the-2017-MRS-Fall-Meeting..html</loc>
+<lastmod>2023-09-01T17:15:52-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/MarohnGroup-20171026-175619--Ryan-publishes-a-paper.html</loc>
-<lastmod>2021-06-08T17:51:54-04:00</lastmod>
+<loc>https://marohn.chem.cornell.edu/MarohnGroup-20171026-175619--Ryan-publishes-a-paper.html</loc>
+<lastmod>2023-09-01T17:15:52-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/MarohnGroup-20170628-174945--Ryan-and-Ali-give-talks.html</loc>
-<lastmod>2021-06-08T17:51:54-04:00</lastmod>
+<loc>https://marohn.chem.cornell.edu/MarohnGroup-20170628-174945--Ryan-and-Ali-give-talks.html</loc>
+<lastmod>2023-09-01T17:15:52-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/MarohnGroup-20170609-180000--Solar-cell-paper-published-with-press-release.html</loc>
-<lastmod>2021-06-08T17:51:54-04:00</lastmod>
+<loc>https://marohn.chem.cornell.edu/MarohnGroup-20170609-180000--Solar-cell-paper-published-with-press-release.html</loc>
+<lastmod>2023-09-01T17:15:52-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/MarohnGroup-20170206-153027--Perovskite-paper-has-been-accepted.html</loc>
-<lastmod>2021-06-08T17:51:54-04:00</lastmod>
+<loc>https://marohn.chem.cornell.edu/MarohnGroup-20170206-153027--Perovskite-paper-has-been-accepted.html</loc>
+<lastmod>2023-09-01T17:15:52-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/MarohnGroup-20161217-165316--Links-page-added.html</loc>
+<loc>https://marohn.chem.cornell.edu/MarohnGroup-20161217-165316--Links-page-added.html</loc>
 <lastmod>2017-10-23T23:04:35-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/MarohnGroup-20160814-100412--Visitors-from-the-Netherlands.html</loc>
+<loc>https://marohn.chem.cornell.edu/MarohnGroup-20160814-100412--Visitors-from-the-Netherlands.html</loc>
 <lastmod>2017-10-23T23:04:34-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/MarohnGroup-20160512-153241--Outreach-activities-at-Caroline-Elementary-School.html</loc>
+<loc>https://marohn.chem.cornell.edu/MarohnGroup-20160512-153241--Outreach-activities-at-Caroline-Elementary-School.html</loc>
 <lastmod>2021-02-08T03:13:10-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/MarohnGroup-20160505-145552--Marohn-Group-at-Cornell-Expanding-Your-Horizon-(EYH).html</loc>
+<loc>https://marohn.chem.cornell.edu/MarohnGroup-20160505-145552--Marohn-Group-at-Cornell-Expanding-Your-Horizon-(EYH).html</loc>
 <lastmod>2021-02-08T03:13:10-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/MarohnGroup-20160405-182303--Group-theses-posted.html</loc>
+<loc>https://marohn.chem.cornell.edu/MarohnGroup-20160405-182303--Group-theses-posted.html</loc>
 <lastmod>2021-02-07T02:06:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/MarohnGroup-20160404-180802--Photo-Album.html</loc>
+<loc>https://marohn.chem.cornell.edu/MarohnGroup-20160404-180802--Photo-Album.html</loc>
 <lastmod>2021-03-31T13:22:36-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/MarohnGroup-20150703-174539--Welcome.html</loc>
+<loc>https://marohn.chem.cornell.edu/MarohnGroup-20150703-174539--Welcome.html</loc>
 <lastmod>2021-03-31T13:22:36-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/category/news</loc>
-<lastmod>2021-06-08T18:06:56-04:56</lastmod>
+<loc>https://marohn.chem.cornell.edu/category/news</loc>
+<lastmod>2023-09-01T17:15:52-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/category/outreach</loc>
+<loc>https://marohn.chem.cornell.edu/category/outreach</loc>
 <lastmod>2021-02-08T03:13:10-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/category/research</loc>
-<lastmod>2021-06-08T17:51:54-04:56</lastmod>
+<loc>https://marohn.chem.cornell.edu/category/research</loc>
+<lastmod>2023-09-01T17:15:52-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/tag/news/</loc>
-<lastmod>2021-06-08T18:06:56-04:56</lastmod>
+<loc>https://marohn.chem.cornell.edu/tag/news/</loc>
+<lastmod>2023-09-01T17:15:52-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/tag/research/</loc>
-<lastmod>2021-06-08T17:51:54-04:56</lastmod>
+<loc>https://marohn.chem.cornell.edu/tag/research/</loc>
+<lastmod>2023-09-01T17:15:52-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/tag/latex/</loc>
-<lastmod>2021-06-08T17:51:54-04:56</lastmod>
+<loc>https://marohn.chem.cornell.edu/tag/latex/</loc>
+<lastmod>2023-09-01T17:15:52-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/tag/bibtex/</loc>
-<lastmod>2021-06-08T17:51:54-04:56</lastmod>
+<loc>https://marohn.chem.cornell.edu/tag/bibtex/</loc>
+<lastmod>2023-09-01T17:15:52-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/tag/zotero/</loc>
-<lastmod>2021-06-08T17:51:54-04:56</lastmod>
+<loc>https://marohn.chem.cornell.edu/tag/zotero/</loc>
+<lastmod>2023-09-01T17:15:52-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/tag/nsf-dmr-1709879/</loc>
-<lastmod>2021-06-08T17:51:54-04:56</lastmod>
+<loc>https://marohn.chem.cornell.edu/tag/nsf-dmr-1709879/</loc>
+<lastmod>2023-09-01T17:15:52-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/tag/doe-de-sc0013957/</loc>
-<lastmod>2021-06-08T17:51:54-04:56</lastmod>
+<loc>https://marohn.chem.cornell.edu/tag/doe-de-sc0013957/</loc>
+<lastmod>2023-09-01T17:15:52-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/tag/nsf-dmr-1309540/</loc>
-<lastmod>2021-06-08T17:51:54-04:56</lastmod>
+<loc>https://marohn.chem.cornell.edu/tag/nsf-dmr-1309540/</loc>
+<lastmod>2023-09-01T17:15:52-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/tag/doe-de-sc00014664/</loc>
-<lastmod>2021-06-08T17:51:54-04:56</lastmod>
+<loc>https://marohn.chem.cornell.edu/tag/doe-de-sc00014664/</loc>
+<lastmod>2023-09-01T17:15:52-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/tag/aro-w911nf-17-1-0247/</loc>
-<lastmod>2021-06-08T17:51:54-04:56</lastmod>
+<loc>https://marohn.chem.cornell.edu/tag/aro-w911nf-17-1-0247/</loc>
+<lastmod>2023-09-01T17:15:52-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/tag/aro-w911nf-12-1-0221/</loc>
-<lastmod>2021-06-08T17:51:54-04:56</lastmod>
+<loc>https://marohn.chem.cornell.edu/tag/aro-w911nf-12-1-0221/</loc>
+<lastmod>2023-09-01T17:15:52-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/tag/nsf-dge-1045513/</loc>
-<lastmod>2021-06-08T17:51:54-04:56</lastmod>
+<loc>https://marohn.chem.cornell.edu/tag/nsf-dge-1045513/</loc>
+<lastmod>2023-09-01T17:15:52-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/tag/nsf-eccs-115420819/</loc>
-<lastmod>2021-06-08T17:51:54-04:56</lastmod>
+<loc>https://marohn.chem.cornell.edu/tag/nsf-eccs-115420819/</loc>
+<lastmod>2023-09-01T17:15:52-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/tag/nsf-dmr-1719875/</loc>
-<lastmod>2021-06-08T17:51:54-04:56</lastmod>
+<loc>https://marohn.chem.cornell.edu/tag/nsf-dmr-1719875/</loc>
+<lastmod>2023-09-01T17:15:52-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/tag/nsf-dmr-1120296/</loc>
-<lastmod>2021-06-08T17:51:54-04:56</lastmod>
+<loc>https://marohn.chem.cornell.edu/tag/nsf-dmr-1120296/</loc>
+<lastmod>2023-09-01T17:15:52-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/tag/nsf-dmr-1602951/</loc>
-<lastmod>2021-06-08T17:51:54-04:56</lastmod>
+<loc>https://marohn.chem.cornell.edu/tag/nsf-dmr-1602951/</loc>
+<lastmod>2023-09-01T17:15:52-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/tag/links/</loc>
+<loc>https://marohn.chem.cornell.edu/tag/links/</loc>
 <lastmod>2017-10-23T23:04:35-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/tag/outreach/</loc>
+<loc>https://marohn.chem.cornell.edu/tag/outreach/</loc>
 <lastmod>2021-02-08T03:13:10-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/tag/eyh/</loc>
+<loc>https://marohn.chem.cornell.edu/tag/eyh/</loc>
 <lastmod>2021-02-08T03:13:10-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/tag/phd-thesis/</loc>
+<loc>https://marohn.chem.cornell.edu/tag/phd-thesis/</loc>
 <lastmod>2021-02-07T02:06:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/tag/photo/</loc>
+<loc>https://marohn.chem.cornell.edu/tag/photo/</loc>
 <lastmod>2021-03-31T13:22:36-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/author/hoang-long-nguyen-hn269cornelledu.html</loc>
+<loc>https://marohn.chem.cornell.edu/author/hoang-long-nguyen-hn269cornelledu.html</loc>
 <lastmod>2021-03-31T13:22:36-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/author/john-a-marohn.html</loc>
+<loc>https://marohn.chem.cornell.edu/author/john-a-marohn.html</loc>
 <lastmod>2021-02-07T02:06:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/author/john-a-marohn-jam99cornelledu.html</loc>
-<lastmod>2021-06-08T17:51:54-04:56</lastmod>
+<loc>https://marohn.chem.cornell.edu/author/john-a-marohn-jam99cornelledu.html</loc>
+<lastmod>2023-09-01T17:15:52-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://johnmarohn.github.io/author/virginia-e-mcghee-vem26cornelledu.html</loc>
-<lastmod>2021-06-08T18:06:56-04:56</lastmod>
+<loc>https://marohn.chem.cornell.edu/author/virginia-e-mcghee-vem26cornelledu.html</loc>
+<lastmod>2023-09-01T17:15:52-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
